@@ -5,6 +5,9 @@ import { defineConfig } from "vite"
  
 // https://vite.dev/config/
 export default defineConfig({
+  // Necessário para GitHub Pages em repositório de projeto
+  // URL final: https://kayoweiber.github.io/Calculadora_CDI/
+  base: '/Calculadora_CDI/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
