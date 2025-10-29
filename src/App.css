@@ -1,0 +1,8 @@
+/* CSS opcional para pequenos ajustes; a base vem do Tailwind (src/index.css) */
+.text-muted-foreground { color: var(--muted-foreground); }
+.bg-primary { background-color: var(--primary); }
+.text-primary-foreground { color: var(--primary-foreground); }
+.text-destructive { color: var(--destructive); }
+
+/* Bordas utilitárias quando Tailwind não estiver aplicado em algo específico */
+.border { border: 1px solid var(--border); }
