@@ -2,6 +2,8 @@
 
 Simule rendimentos compostos atrelados ao CDI com percentuais customizáveis e escolha de calendário (365 dias corridos ou 252 dias úteis).
 
+👉 Acesse online: https://kayoweiber.github.io/Calculadora_CDI/
+
 ## Sumário
 
 - [Funcionalidades](#-funcionalidades)
